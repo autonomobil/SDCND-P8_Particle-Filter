@@ -1,9 +1,6 @@
 [//]: # (Image References)
 
-[img1]: ./images/particle_filter.png "finished.png"
-[img2]: ./images/Meas_vs_Kalmanfilt.png "measvskalman.png"
-[img3]: ./images/NIS_process_noise_bad.png "finished.png"
-[img4]: ./images/NIS_process_noise_good.png "finished.png"
+[img1]: ./images/particle_filter.png "structure.png"
 
 ___
 # SDCND Term 2 Project 8: Particle Filter
