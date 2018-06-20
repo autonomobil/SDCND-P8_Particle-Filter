@@ -9,14 +9,13 @@ ___
 
 This repository contains all the C++ code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree. Its objective is to use a 2D Particle Filter to determine a car's location using a map with landmarks, initialized with rough GPS coordinates.
 
-##### The overall structure of this filter looks like this (source: Udacity):
+#### The overall structure of this filter looks like this (source: Udacity):
 ![img1]
 
-
-##### The results can be viewed here(Youtube):
+#### The results can be viewed here(Youtube):
 [![result1](https://img.youtube.com/vi/y2gCHllvhw0/0.jpg)](https://www.youtube.com/watch?v=y2gCHllvhw0)
 
-##### Udacity's project basis can be found [here](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project).
+#### Udacity's project basis can be found [here](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project).
 
 ## Dependencies
 
